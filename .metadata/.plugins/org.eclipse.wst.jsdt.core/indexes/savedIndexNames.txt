@@ -1,6 +1,2 @@
-INDEX VERSION 1.4+C:\3DBankRepository\newDangJang_JSP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3142611628.index
-4036356721.index
-909952860.index
-4029988972.index
-2855487424.index
+INDEX VERSION 1.4+C:\newDangJang_JSP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1638652865.index
