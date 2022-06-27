@@ -3,8 +3,4 @@
 /.project
 /.springBeans
 /src/**/*.properties
-/.metadata/
-/.mylyn
-/.lock
-/.log
-/version.ini
+/Servers
